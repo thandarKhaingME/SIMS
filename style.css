@@ -16,10 +16,16 @@ h3{
 }
 #profile_img{
     display: block;
-    margin-left: auto;
+    margin: auto;
     margin-right: auto;
     width: 10%;
    
+}
+#DivTest{
+   
+    margin:auto
+  
+    
 }
 label{
     display:inline-block;
